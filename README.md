@@ -1,6 +1,6 @@
 # Ondřej Novotný
 
-18, Olomouc. Full-stack — TypeScript, React Native, Python. Mostly end to end: database, backend, frontend, deploy.
+18, Olomouc. Full-stack — TypeScript, React Native, JavaScript, Python. Mostly end to end: database, backend, frontend, deploy.
 
 Interested in cybersecurity, DefTech and physics.
 
